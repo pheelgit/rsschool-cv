@@ -1,1 +1,0 @@
- https://pheelgit.github.io/rsschool-cv/cv
