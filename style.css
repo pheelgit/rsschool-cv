@@ -1,0 +1,25 @@
+
+.wrapper{
+    width: 1020px;
+    margin: 0 auto;
+    background-color: beige;
+    display: block;}
+
+.image{
+        display: inline;
+        border-radius: 10%;
+        justify-content: stretch;
+       
+    }
+
+h1{
+    display: inline;
+}
+h2{
+    font-size: 20px;
+    color: rgb(10, 87, 87);
+}
+p{
+    font-size:16px;
+
+}
